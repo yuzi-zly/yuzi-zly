@@ -6,4 +6,4 @@ I'm Lingyu Zhang, a PhD student in the Department of Computer Science and Techno
 ### More Infos 📖
 
 - 📧Email: zly@smail.nju.edu.cn
-- 🌀Homepage: [lyzhang.site](http://lyzhang.site)
+- 🌀Homepage: [yuzi-zly.github.io](https://yuzi-zly.github.io/)
