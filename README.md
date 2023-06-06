@@ -1,5 +1,6 @@
 ### Hi There! 👋 
-I'm Lingyu Zhang, a PhD student in the Department of Computer Science and Technology 💻, Nanjing University 🐳.
+- 🐳 I'm Lingyu Zhang, a Ph.D. student at the spar group, the Institute of Computer Science (ICS), Department of Computer Science and Technology, Nanjing University.
+- 🧑‍🎓 Before joining ICS, I obtained my Bachelor’s in Computer Science and Technology from Kuang Yaming Honors School, Nanjing University, Jiangsu, China in 2021.
 
 ### More Infos 📖
 
