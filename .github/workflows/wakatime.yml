@@ -10,7 +10,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: yuzi-zly/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
           # following flags are required, only if this is not on
