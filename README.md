@@ -5,6 +5,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### My Github Contributions
+
+![](https://raw.githubusercontent.com/yuziz-zly/yuzi-zly/main/assets/github-contribution-grid-snake.svg)              
+
 ### More Infos 📖
 
 - 📧Email: zly(at)smail.nju.edu.cn
