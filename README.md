@@ -4,5 +4,5 @@
 
 ### More Infos 📖
 
-- 📧Email: zly at smail.nju.edu.cn
+- 📧Email: zly(at)smail.nju.edu.cn
 - 🌀Homepage: [yuzi-zly.github.io](https://yuzi-zly.github.io/)
