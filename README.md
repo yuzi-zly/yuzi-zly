@@ -7,7 +7,7 @@
 
 ### My Github Contributions
 
-![](https://raw.githubusercontent.com/yuziz-zly/yuzi-zly/main/assets/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/yuziz-zly/yuzi-zly/output/github-contribution-grid-snake.svg)              
 
 ### More Infos 📖
 
