@@ -13,7 +13,7 @@ C       0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### My Github Contributions
+### Github Contributions :octocat:
 
 ![](https://raw.githubusercontent.com/yuzi-zly/yuzi-zly/output/github-contribution-grid-snake.svg)              
 
