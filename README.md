@@ -3,6 +3,14 @@
 - 🧑‍🎓 Before joining ICS, I obtained my Bachelor’s in Computer Science and Technology from Kuang Yaming Honors School, Nanjing University, Jiangsu, China in 2021.
 
 <!--START_SECTION:waka-->
+
+```txt
+Other   1 hr 50 mins    █████████████████████████   99.60 %
+Java    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+sh      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ### My Github Contributions
