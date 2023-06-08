@@ -5,6 +5,20 @@
 ### Weekly Development Breakdown :bar_chart:
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 June 2023 - To: 07 June 2023
+
+Total Time: 7 hrs 52 mins
+
+Other      7 hrs 16 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.25 %
+Markdown   26 mins         >------------------------   05.62 %
+JSON       9 mins          >------------------------   02.00 %
+Java       0 secs          -------------------------   00.08 %
+sh         0 secs          -------------------------   00.05 %
+C          0 secs          -------------------------   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Github Contributions :octocat:
