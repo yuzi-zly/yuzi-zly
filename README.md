@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
-Total Time: 17 hrs 7 mins
+Total Time: 19 hrs 25 mins
 
-Other      11 hrs 18 mins  ████████████████▓░░░░░░░░   66.01 %
-Java       2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Text       1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-CSV/TSV    54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Markdown   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other      11 hrs 18 mins  ██████████████▓░░░░░░░░░░   58.24 %
+Java       3 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+Text       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Markdown   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+CSV/TSV    54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->
