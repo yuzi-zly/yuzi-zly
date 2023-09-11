@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Total Time: 3 hrs 27 mins
+Total Time: 6 hrs 8 mins
 
-Text             1 hr 13 mins    ████████▓░░░░░░░░░░░░░░░░   35.31 %
-Markdown         50 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Java             36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-sh               19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-XML              12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Java             3 hrs 19 mins   █████████████▓░░░░░░░░░░░   54.06 %
+Text             1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Markdown         53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+sh               15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+XML              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
