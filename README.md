@@ -20,10 +20,11 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--
 ### Github Contributions :octocat:
 
 ![](https://raw.githubusercontent.com/yuzi-zly/yuzi-zly/output/github-contribution-grid-snake.svg)              
-
+-->
 
 ### More Infos 📖
 
