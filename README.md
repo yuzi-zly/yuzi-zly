@@ -7,15 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Total Time: 11 mins
+Total Time: 0 secs
 
-Java         5 mins          ████████████░░░░░░░░░░░░░   48.20 %
-sh           4 mins          ██████████░░░░░░░░░░░░░░░   40.54 %
-Rust         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-TOML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
