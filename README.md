@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 2 hrs 24 mins
+Total Time: 1 hr 43 mins
 
-sh               1 hr 32 mins    ████████████████░░░░░░░░░   64.07 %
-Java             29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-HTML             17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Other            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+sh               53 mins         █████████████░░░░░░░░░░░░   52.01 %
+Java             29 mins         ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+HTML             17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
