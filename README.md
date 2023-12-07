@@ -7,14 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2023 - To: 05 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Total Time: 37 mins
+Total Time: 20 mins
 
-Other   24 mins         ████████████████▒░░░░░░░░   64.94 %
-sh      10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-JSON    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-C       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other   17 mins         ██████████████████████░░░   88.52 %
+sh      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+C       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
