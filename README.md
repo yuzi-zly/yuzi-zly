@@ -7,13 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-Total Time: 20 mins
+Total Time: 0 secs
 
-Other   17 mins         ██████████████████████░░░   88.52 %
-sh      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-C       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
