@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2023 - To: 22 December 2023
+From: 16 December 2023 - To: 23 December 2023
 
-Total Time: 20 mins
+Total Time: 19 mins
 
-sh     11 mins         ██████████████▒░░░░░░░░░░   57.33 %
-XML    8 mins          ██████████▓░░░░░░░░░░░░░░   42.57 %
+sh     10 mins         █████████████▓░░░░░░░░░░░   54.26 %
+XML    8 mins          ███████████▒░░░░░░░░░░░░░   45.63 %
 JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
