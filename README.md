@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
 Total Time: 35 mins
 
-sh     31 mins         ██████████████████████░░░   88.30 %
-Java   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+sh     31 mins         ██████████████████████░░░   88.29 %
+Java   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
 ```
 
 <!--END_SECTION:waka-->
