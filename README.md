@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 35 mins
+Total Time: 14 mins
 
-sh     31 mins         ██████████████████████░░░   88.29 %
-Java   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+sh     10 mins         ██████████████████░░░░░░░   71.82 %
+Java   4 mins          ███████░░░░░░░░░░░░░░░░░░   28.18 %
 ```
 
 <!--END_SECTION:waka-->
