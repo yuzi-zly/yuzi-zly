@@ -7,13 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 27 January 2024
+From: 21 January 2024 - To: 28 January 2024
 
-Total Time: 2 hrs 40 mins
+Total Time: 2 hrs 5 mins
 
-sh     1 hr 59 mins    ██████████████████▓░░░░░░   74.76 %
-Java   33 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
-XML    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+sh     1 hr 55 mins    ███████████████████████░░   92.32 %
+Java   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
