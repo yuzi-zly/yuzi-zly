@@ -7,15 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2024 - To: 13 March 2024
+From: 07 March 2024 - To: 14 March 2024
 
-Total Time: 9 mins
+Total Time: 4 mins
 
-sh       4 mins          █████████████░░░░░░░░░░░░   51.94 %
-Python   2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-Java     1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-XML      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+sh   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
