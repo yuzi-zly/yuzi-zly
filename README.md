@@ -7,13 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-Total Time: 12 mins
+Total Time: 1 hr 11 mins
 
-sh         9 mins          ████████████████████▒░░░░   81.62 %
-Markdown   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Other      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+HTML       58 mins         ████████████████████▓░░░░   82.31 %
+sh         10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
