@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-Total Time: 5 hrs 38 mins
+Total Time: 4 hrs 54 mins
 
-sh       4 hrs 48 mins   █████████████████████▒░░░   85.23 %
-Python   36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Java     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Groovy   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+sh       4 hrs 20 mins   ██████████████████████░░░   88.49 %
+Python   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Java     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+C        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
