@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
-Total Time: 1 hr 21 mins
+Total Time: 1 hr 18 mins
 
-sh       51 mins         ████████████████░░░░░░░░░   63.58 %
-Python   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Other    9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-C        8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+sh       48 mins         ███████████████▓░░░░░░░░░   62.27 %
+Python   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Other    9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+C        8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
 ```
 
 <!--END_SECTION:waka-->
