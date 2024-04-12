@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 48 mins
+Total Time: 13 mins
 
-sh      39 mins         ████████████████████▒░░░░   81.35 %
-Other   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Other   9 mins          █████████████████░░░░░░░░   67.63 %
+sh      4 mins          ████████░░░░░░░░░░░░░░░░░   32.37 %
 ```
 
 <!--END_SECTION:waka-->
