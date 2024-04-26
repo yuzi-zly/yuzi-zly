@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-Total Time: 11 hrs 48 mins
+Total Time: 11 hrs 47 mins
 
-Other        11 hrs 33 mins  ████████████████████████▒   97.83 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other        11 hrs 33 mins  ████████████████████████▓   98.02 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-sh           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+sh           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
