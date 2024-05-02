@@ -7,14 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2024 - To: 30 April 2024
+From: 24 April 2024 - To: 01 May 2024
 
-Total Time: 2 hrs 30 mins
+Total Time: 1 hr 57 mins
 
-sh               1 hr 29 mins    ███████████████░░░░░░░░░░   59.48 %
-Other            32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-Java             27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+sh               1 hr 29 mins    ███████████████████░░░░░░   75.97 %
+Java             27 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
