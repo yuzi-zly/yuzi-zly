@@ -7,11 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
-Total Time: 0 secs
+Total Time: 2 mins
 
-sh   0 secs          █████████████████████████   100.00 %
+JSON   2 mins          ███████████████████████░░   92.41 %
+sh     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
