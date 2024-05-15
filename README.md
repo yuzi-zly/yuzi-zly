@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-Total Time: 2 mins
+Total Time: 3 mins
 
-JSON   2 mins          ███████████████████████░░   92.41 %
-sh     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JSON   2 mins          ████████████████▒░░░░░░░░   65.65 %
+sh     1 min           ████████▓░░░░░░░░░░░░░░░░   34.35 %
 ```
 
 <!--END_SECTION:waka-->
