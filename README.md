@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-Total Time: 2 hrs 35 mins
+Total Time: 4 hrs 46 mins
 
-Markdown   1 hr 10 mins    ███████████▒░░░░░░░░░░░░░   44.95 %
-JSON       40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-Solidity   30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-sh         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Solidity   2 hrs 39 mins   ██████████████░░░░░░░░░░░   55.61 %
+Markdown   1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+JSON       40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+sh         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
