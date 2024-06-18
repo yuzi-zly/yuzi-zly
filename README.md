@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2024 - To: 16 June 2024
+From: 10 June 2024 - To: 17 June 2024
 
-Total Time: 6 hrs 38 mins
+Total Time: 7 hrs 22 mins
 
-Markdown         4 hrs 3 mins    ███████████████▒░░░░░░░░░   61.17 %
-Java             1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-sh               32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-AspectJ          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Solidity         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Markdown         4 hrs 3 mins    █████████████▓░░░░░░░░░░░   55.13 %
+Java             1 hr 41 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+sh               55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+AspectJ          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Solidity         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
