@@ -7,15 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 26 June 2024
+From: 20 June 2024 - To: 27 June 2024
 
-Total Time: 26 mins
+Total Time: 0 secs
 
-Other      12 mins         ███████████▓░░░░░░░░░░░░░   46.08 %
-Java       7 mins          ███████░░░░░░░░░░░░░░░░░░   28.44 %
-Text       5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-sh         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+sh   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
