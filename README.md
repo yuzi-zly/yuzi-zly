@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 23 September 2024
+From: 17 September 2024 - To: 24 September 2024
 
-Total Time: 34 hrs 40 mins
+Total Time: 35 hrs 7 mins
 
-Python         11 hrs 55 mins  ████████▓░░░░░░░░░░░░░░░░   34.40 %
-JSON           7 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Text           5 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-TeX            3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Other          2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Python         11 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   31.94 %
+JSON           7 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+Text           7 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+TeX            3 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Other          2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
 ```
 
 <!--END_SECTION:waka-->
