@@ -7,15 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2024 - To: 03 October 2024
+From: 27 September 2024 - To: 04 October 2024
 
-Total Time: 4 mins
+Total Time: 1 min
 
-TeX      2 mins          █████████████░░░░░░░░░░░░   51.83 %
-sh       1 min           █████████▓░░░░░░░░░░░░░░░   38.26 %
-JSON     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+sh       1 min           ████████████████████░░░░░   79.42 %
+JSON     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Python   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+YAML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
