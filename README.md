@@ -7,14 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
 Total Time: 1 min
 
-sh       1 min           ████████████████████░░░░░   79.42 %
-JSON     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Python   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-YAML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+sh     1 min           ██████████████████████░░░   88.20 %
+JSON   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
 ```
 
 <!--END_SECTION:waka-->
