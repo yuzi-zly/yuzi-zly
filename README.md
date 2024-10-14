@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2024 - To: 12 October 2024
+From: 06 October 2024 - To: 13 October 2024
 
-Total Time: 0 secs
+Total Time: 2 hrs 58 mins
 
-No activity tracked
+Text          1 hr 16 mins    ██████████▓░░░░░░░░░░░░░░   42.77 %
+Python        55 mins         ███████▓░░░░░░░░░░░░░░░░░   31.22 %
+JSON          43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+sh            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
