@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 27 November 2024
+From: 21 November 2024 - To: 28 November 2024
 
-Total Time: 20 hrs 10 mins
+Total Time: 27 hrs 4 mins
 
-Markdown     6 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.98 %
-Text         5 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
-Python       3 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-JSON         1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-sh           1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Markdown     8 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.28 %
+JSON         5 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Text         5 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Python       4 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+sh           1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
 ```
 
 <!--END_SECTION:waka-->
