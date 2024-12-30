@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2024 - To: 28 December 2024
+From: 22 December 2024 - To: 29 December 2024
 
-Total Time: 29 hrs 22 mins
+Total Time: 33 hrs 54 mins
 
-Python       20 hrs 39 mins  █████████████████▓░░░░░░░   70.35 %
-sh           4 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Text         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-XML          1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-CSV          1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Python       20 hrs 49 mins  ███████████████▒░░░░░░░░░   61.44 %
+sh           4 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+Markdown     3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+XML          1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Text         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
