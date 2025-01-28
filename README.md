@@ -7,15 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2025 - To: 26 January 2025
+From: 20 January 2025 - To: 27 January 2025
 
-Total Time: 5 hrs 56 mins
+Total Time: 2 hrs 54 mins
 
-Python   5 hrs 3 mins    █████████████████████▒░░░   84.99 %
-Other    41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-XML      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-TOML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-sh       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python   2 hrs 6 mins    ██████████████████▒░░░░░░   72.70 %
+Other    39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+XML      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
