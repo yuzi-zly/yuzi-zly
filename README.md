@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 33 mins
 
-sh   0 secs          █████████████████████████   100.00 %
+Python   1 hr 24 mins    ██████████████████████▓░░   90.30 %
+XML      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+CSV      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+sh       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
