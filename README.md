@@ -7,14 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
-Total Time: 3 hrs 11 mins
+Total Time: 54 mins
 
-Markdown   2 hrs 32 mins   ████████████████████░░░░░   79.80 %
-Text       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Python     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Markdown   49 mins         ███████████████████████░░   91.88 %
+Text       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Python     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
