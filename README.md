@@ -7,14 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
-Total Time: 2 hrs 5 mins
+Total Time: 0 secs
 
-C++      1 hr 28 mins    █████████████████▓░░░░░░░   71.08 %
-Python   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-C        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-XML      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
