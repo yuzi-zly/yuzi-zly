@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2025 - To: 21 August 2025
+From: 15 August 2025 - To: 22 August 2025
 
-Total Time: 26 hrs 48 mins
+Total Time: 31 hrs 22 mins
 
-Python               8 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
-Other                5 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-Java                 3 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-sh                   3 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Groovy               1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Other                8 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Python               8 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+sh                   4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Java                 3 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Groovy               1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
