@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 45 mins
 
-No activity tracked
+sh         48 mins         ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+Python     27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+XML        27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+JSON       23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Other      12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 ```
 
 <!--END_SECTION:waka-->
