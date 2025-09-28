@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-Total Time: 31 hrs 48 mins
+Total Time: 32 hrs 19 mins
 
-sh           14 hrs 4 mins   ███████████░░░░░░░░░░░░░░   44.23 %
-JSON         9 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.35 %
-Python       4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Other        1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Text         1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+sh           13 hrs 52 mins  ██████████▓░░░░░░░░░░░░░░   42.94 %
+JSON         9 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 %
+Python       4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Other        1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Text         1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
