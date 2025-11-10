@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Total Time: 31 hrs 8 mins
+Total Time: 30 hrs 46 mins
 
-Java                7 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-sh                  6 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-Markdown            3 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-JSON                2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Other               2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Java              6 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+sh                5 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Other             5 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Markdown          3 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JSON              2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
 ```
 
 <!--END_SECTION:waka-->
