@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 8 hrs 26 mins
+Total Time: 1 hr 10 mins
 
-sh                2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Bash              1 hr 47 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Python            1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Markdown          1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Java              49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+sh                43 mins         ███████████████▒░░░░░░░░░   61.50 %
+Bash              12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+XML               7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Java              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Python            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
