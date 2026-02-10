@@ -7,13 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-Total Time: 27 mins
+Total Time: 34 mins
 
-Markdown   16 mins         ███████████████▒░░░░░░░░░   61.68 %
-Bash       6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-sh         4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Java   34 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
