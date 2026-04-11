@@ -7,12 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Total Time: 3 hrs 37 mins
+Total Time: 9 hrs 19 mins
 
-sh         3 hrs 33 mins         ████████████████████████▓   98.21 %
-Markdown   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+sh           8 hrs 45 mins         ███████████████████████▒░   93.94 %
+TOML         25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Markdown     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
