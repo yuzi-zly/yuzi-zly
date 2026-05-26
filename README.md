@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
-Total Time: 40 hrs 38 mins
+Total Time: 40 hrs 9 mins
 
-Python     26 hrs 56 mins        ████████████████▓░░░░░░░░   66.28 %
-Markdown   6 hrs 14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Other      4 hrs 53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-C++        1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Cangjie    32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Python     24 hrs 52 mins        ███████████████▒░░░░░░░░░   61.95 %
+Markdown   6 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Other      5 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+C++        2 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Cangjie    32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
