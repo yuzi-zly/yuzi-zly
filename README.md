@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2026 - To: 26 September 2026
+From: 20 September 2026 - To: 27 September 2026
 
-Total Time: 40 hrs 9 mins
+Total Time: 38 hrs 18 mins
 
-Markdown     22 hrs 14 mins        ██████████████░░░░░░░░░░░   55.38 %
-Other        10 hrs 53 mins        ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-Cangjie      2 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Python       1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Bash         1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown     20 hrs 32 mins        █████████████▒░░░░░░░░░░░   53.61 %
+Other        10 hrs 40 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 %
+Cangjie      2 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Python       1 hr 58 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Bash         1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
